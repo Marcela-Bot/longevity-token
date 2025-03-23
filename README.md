@@ -91,6 +91,9 @@ Fixed Token Value: The value of the token will be fixed, which will guarantee st
 
 Stability Mechanisms: We will maintain a controlled token supply and use mechanisms such as staking and token burning to manage inflation and ensure the token’s value remains stable.
 
+Link to Smart Contract 0xd9145CCE52D386f254917e481eB44e9943F39138
+ 
+
 
 
 
